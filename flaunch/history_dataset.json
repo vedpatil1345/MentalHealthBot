@@ -1,0 +1,583 @@
+[
+  {
+    "Event": "American Revolution",
+    "Year": "1775-1783",
+    "Details": "War for independence of the American colonies from British rule",
+    "Quiz Question": "In which year did the American Revolution begin?",
+    "Answer": "1775"
+  },
+  {
+    "Event": "French Revolution",
+    "Year": "1789-1799",
+    "Details": "Period of radical social and political upheaval in France",
+    "Quiz Question": "What was the main cause of the French Revolution?",
+    "Answer": "Social inequality and financial crisis"
+  },
+  {
+    "Event": "Industrial Revolution",
+    "Year": "1760-1840",
+    "Details": "Transition to new manufacturing processes in Europe and the United States",
+    "Quiz Question": "Which invention played a key role in the textile industry during the Industrial Revolution?",
+    "Answer": "The spinning jenny"
+  },
+  {
+    "Event": "World War I",
+    "Year": "1914-1918",
+    "Details": "Global war originating in Europe that lasted from 28 July 1914 to 11 November 1918",
+    "Quiz Question": "What event triggered the start of World War I?",
+    "Answer": "The assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "Event": "Russian Revolution",
+    "Year": "1917",
+    "Details": "A pair of revolutions in Russia that dismantled the Tsarist autocracy and led to the rise of the Soviet Union",
+    "Quiz Question": "Who led the Bolsheviks during the Russian Revolution?",
+    "Answer": "Vladimir Lenin"
+  },
+  {
+    "Event": "World War II",
+    "Year": "1939-1945",
+    "Details": "Global conflict involving many of the world's nations, known as the deadliest conflict in human history",
+    "Quiz Question": "Which country was the first to be invaded by Nazi Germany, marking the start of World War II in Europe?",
+    "Answer": "Poland"
+  },
+  {
+    "Event": "Ancient Egyptian Civilization",
+    "Year": "c. 3100 BC - 30 BC",
+    "Details": "One of the world's earliest and longest-lasting civilizations, known for its monumental architecture and complex religious beliefs",
+    "Quiz Question": "What ancient Egyptian structure is the oldest of the Seven Wonders of the Ancient World?",
+    "Answer": "The Great Pyramid of Giza"
+  },
+  {
+    "Event": "Roman Empire",
+    "Year": "27 BC - 476 AD",
+    "Details": "One of the largest empires in ancient history, centered on the city of Rome and its conquered territories",
+    "Quiz Question": "Who was the first Emperor of the Roman Empire?",
+    "Answer": "Augustus"
+  },
+  {
+    "Event": "Renaissance",
+    "Year": "14th-17th centuries",
+    "Details": "Period of cultural, artistic, political, and economic revival following the Middle Ages",
+    "Quiz Question": "Which Italian city is considered the birthplace of the Renaissance?",
+    "Answer": "Florence"
+  },
+  {
+    "Event": "Age of Exploration",
+    "Year": "15th-17th centuries",
+    "Details": "Period during which European ships traveled around the world to search for new trading routes and partners",
+    "Quiz Question": "Who was the first explorer to circumnavigate the globe?",
+    "Answer": "Ferdinand Magellan"
+  },
+  {
+    "Event": "Protestant Reformation",
+    "Year": "1517-1648",
+    "Details": "Religious revolution in Western Christianity that challenged the authority of the Roman Catholic Church",
+    "Quiz Question": "Who is credited with starting the Protestant Reformation by nailing his 95 Theses to a church door?",
+    "Answer": "Martin Luther"
+  },
+  {
+    "Event": "Scientific Revolution",
+    "Year": "16th-18th centuries",
+    "Details": "Period of scientific discoveries that fundamentally changed views of nature and laid the foundation for modern science",
+    "Quiz Question": "Who is often referred to as the 'Father of Modern Science'?",
+    "Answer": "Galileo Galilei"
+  },
+  {
+    "Event": "American Civil War",
+    "Year": "1861-1865",
+    "Details": "War between the United States and 11 Southern states that seceded from the Union",
+    "Quiz Question": "Who was the President of the United States during the American Civil War?",
+    "Answer": "Abraham Lincoln"
+  },
+  {
+    "Event": "Cold War",
+    "Year": "1947-1991",
+    "Details": "Period of geopolitical tension between the United States and the Soviet Union and their respective allies",
+    "Quiz Question": "What physical barrier became a symbol of the Cold War division in Europe?",
+    "Answer": "The Berlin Wall"
+  },
+  {
+    "Event": "Moon Landing",
+    "Year": "1969",
+    "Details": "First manned mission to land on the Moon, carried out by the United States",
+    "Quiz Question": "Who was the first person to walk on the Moon?",
+    "Answer": "Neil Armstrong"
+  },
+  {
+    "Event": "Fall of the Berlin Wall",
+    "Year": "1989",
+    "Details": "The fall of the Berlin Wall marked the beginning of the end of the Cold War and the reunification of Germany",
+    "Quiz Question": "In what year did the Berlin Wall fall?",
+    "Answer": "1989"
+  },
+  {
+    "Event": "Invention of the Printing Press",
+    "Year": "c. 1440",
+    "Details": "Johannes Gutenberg's invention revolutionized the spread of information in Europe",
+    "Quiz Question": "Who invented the movable type printing press?",
+    "Answer": "Johannes Gutenberg"
+  },
+  {
+    "Event": "Black Death",
+    "Year": "1347-1351",
+    "Details": "One of the most devastating pandemics in human history, causing the deaths of an estimated 75-200 million people in Eurasia",
+    "Quiz Question": "What was the main disease responsible for the Black Death?",
+    "Answer": "Bubonic plague"
+  },
+  {
+    "Event": "Crusades",
+    "Year": "1095-1291",
+    "Details": "Series of religious wars between Christians and Muslims over control of the Holy Land",
+    "Quiz Question": "What was the primary goal of the Crusades?",
+    "Answer": "To reclaim Jerusalem and the Holy Land from Muslim rule"
+  },
+  {
+    "Event": "Discovery of America",
+    "Year": "1492",
+    "Details": "Christopher Columbus's voyage across the Atlantic Ocean, leading to European awareness of the American continents",
+    "Quiz Question": "In what year did Christopher Columbus first reach the Americas?",
+    "Answer": "1492"
+  },
+  {
+    "Event": "Chinese Cultural Revolution",
+    "Year": "1966-1976",
+    "Details": "Sociopolitical movement in China launched by Mao Zedong to preserve Chinese communism",
+    "Quiz Question": "Who launched the Cultural Revolution in China?",
+    "Answer": "Mao Zedong"
+  },
+  {
+    "Event": "Signing of the Magna Carta",
+    "Year": "1215",
+    "Details": "Charter of rights agreed to by King John of England, considered one of the most important documents in the development of modern democracy",
+    "Quiz Question": "In which year was the Magna Carta signed?",
+    "Answer": "1215"
+  },
+  {
+    "Event": "Fall of Constantinople",
+    "Year": "1453",
+    "Details": "Capture of the capital of the Byzantine Empire by the Ottoman Empire, marking the end of the Roman Empire",
+    "Quiz Question": "Which empire captured Constantinople in 1453?",
+    "Answer": "The Ottoman Empire"
+  },
+  {
+    "Event": "Spanish Inquisition",
+    "Year": "1478-1834",
+    "Details": "Period of persecution and expulsion in Spain, aimed at maintaining Catholic orthodoxy in the Spanish kingdoms",
+    "Quiz Question": "What was the main purpose of the Spanish Inquisition?",
+    "Answer": "To maintain Catholic orthodoxy and combat heresy"
+  },
+  {
+    "Event": "Abolition of Slavery in the United States",
+    "Year": "1865",
+    "Details": "The 13th Amendment to the U.S. Constitution abolished slavery and involuntary servitude",
+    "Quiz Question": "Which amendment to the U.S. Constitution abolished slavery?",
+    "Answer": "The 13th Amendment"
+  },
+  {
+    "Event": "Russian Revolution",
+    "Year": "1917",
+    "Details": "Series of revolutions in Russia that dismantled the Tsarist autocracy and led to the creation of the Soviet Union",
+    "Quiz Question": "Who led the Bolsheviks during the Russian Revolution?",
+    "Answer": "Vladimir Lenin"
+  },
+  {
+    "Event": "Treaty of Versailles",
+    "Year": "1919",
+    "Details": "Peace treaty that ended World War I and imposed punitive conditions on Germany",
+    "Quiz Question": "What treaty officially ended World War I?",
+    "Answer": "The Treaty of Versailles"
+  },
+  {
+    "Event": "Great Depression",
+    "Year": "1929-1939",
+    "Details": "Severe worldwide economic depression that began in the United States",
+    "Quiz Question": "In what year did the stock market crash that triggered the Great Depression occur?",
+    "Answer": "1929"
+  },
+  {
+    "Event": "Atomic Bombings of Hiroshima and Nagasaki",
+    "Year": "1945",
+    "Details": "United States conducted two atomic bombings against Japan, leading to Japan's surrender and the end of World War II",
+    "Quiz Question": "What were the names of the two Japanese cities that were hit by atomic bombs in 1945?",
+    "Answer": "Hiroshima and Nagasaki"
+  },
+  {
+    "Event": "Founding of the United Nations",
+    "Year": "1945",
+    "Details": "International organization formed after World War II to promote international cooperation and maintain world peace",
+    "Quiz Question": "In which year was the United Nations founded?",
+    "Answer": "1945"
+  },
+  {
+    "Event": "Cuban Missile Crisis",
+    "Year": "1962",
+    "Details": "13-day confrontation between the United States and the Soviet Union over Soviet ballistic missiles deployed in Cuba",
+    "Quiz Question": "Which U.S. President was in office during the Cuban Missile Crisis?",
+    "Answer": "John F. Kennedy"
+  },
+  {
+    "Event": "Assassination of John F. Kennedy",
+    "Year": "1963",
+    "Details": "35th President of the United States was assassinated in Dallas, Texas",
+    "Quiz Question": "In which city was President John F. Kennedy assassinated?",
+    "Answer": "Dallas, Texas"
+  },
+  {
+    "Event": "Vietnam War",
+    "Year": "1955-1975",
+    "Details": "Prolonged conflict between North Vietnam and its southern allies against South Vietnam and its principal ally, the United States",
+    "Quiz Question": "Which peace agreement officially ended direct U.S. involvement in the Vietnam War?",
+    "Answer": "The Paris Peace Accords"
+  },
+  {
+    "Event": "Watergate Scandal",
+    "Year": "1972-1974",
+    "Details": "Major political scandal in the United States that led to the resignation of President Richard Nixon",
+    "Quiz Question": "Which U.S. President resigned as a result of the Watergate scandal?",
+    "Answer": "Richard Nixon"
+  },
+  {
+    "Event": "Iranian Revolution",
+    "Year": "1978-1979",
+    "Details": "Overthrow of the Pahlavi dynasty under Shah Mohammad Reza Pahlavi and its replacement with an Islamic republic under Ayatollah Ruhollah Khomeini",
+    "Quiz Question": "Who became the Supreme Leader of Iran after the 1979 revolution?",
+    "Answer": "Ayatollah Ruhollah Khomeini"
+  },
+  {
+    "Event": "Chernobyl Disaster",
+    "Year": "1986",
+    "Details": "Catastrophic nuclear accident at the Chernobyl Nuclear Power Plant in Soviet Ukraine",
+    "Quiz Question": "In which country did the Chernobyl nuclear disaster occur?",
+    "Answer": "Soviet Ukraine (now Ukraine)"
+  },
+  {
+    "Event": "Dissolution of the Soviet Union",
+    "Year": "1991",
+    "Details": "The Soviet Union was dissolved into 15 independent republics, marking the end of the Cold War",
+    "Quiz Question": "In which year did the Soviet Union officially dissolve?",
+    "Answer": "1991"
+  },
+  {
+    "Event": "Rwandan Genocide",
+    "Year": "1994",
+    "Details": "Mass slaughter of Tutsi in Rwanda by members of the Hutu majority government",
+    "Quiz Question": "Approximately how many people were killed during the Rwandan Genocide?",
+    "Answer": "500,000 to 1,000,000"
+  },
+  {
+    "Event": "September 11 Attacks",
+    "Year": "2001",
+    "Details": "Series of four coordinated terrorist attacks carried out by the Islamic terrorist group al-Qaeda against the United States",
+    "Quiz Question": "What was the primary target of the 9/11 attacks in New York City?",
+    "Answer": "The World Trade Center"
+  },
+  {
+    "Event": "Iraq War",
+    "Year": "2003-2011",
+    "Details": "Protracted armed conflict in Iraq that began with the invasion of Iraq by a United States-led coalition",
+    "Quiz Question": "What was the main justification given by the U.S. for invading Iraq in 2003?",
+    "Answer": "The alleged presence of weapons of mass destruction"
+  },
+  {
+    "Event": "Indian Independence",
+    "Year": "1947",
+    "Details": "India gained independence from British rule, leading to the partition of India and Pakistan",
+    "Quiz Question": "Who is known as the 'Father of the Nation' in India?",
+    "Answer": "Mahatma Gandhi"
+  },
+  {
+    "Event": "Chinese Civil War",
+    "Year": "1927-1949",
+    "Details": "Civil war in China between the Kuomintang-led government and the Communist Party of China",
+    "Quiz Question": "Who led the Communist forces to victory in the Chinese Civil War?",
+    "Answer": "Mao Zedong"
+  },
+  {
+    "Event": "Apartheid in South Africa",
+    "Year": "1948-1994",
+    "Details": "System of institutionalized racial segregation and discrimination in South Africa",
+    "Quiz Question": "Who was the first black president of South Africa after the end of apartheid?",
+    "Answer": "Nelson Mandela"
+  },
+  {
+    "Event": "Korean War",
+    "Year": "1950-1953",
+    "Details": "War between North Korea and South Korea, with the United Nations supporting South Korea and China supporting North Korea",
+    "Quiz Question": "What is the name of the demilitarized zone that separates North and South Korea?",
+    "Answer": "The 38th Parallel"
+  },
+  {
+    "Event": "Cuban Revolution",
+    "Year": "1953-1959",
+    "Details": "Armed revolt in Cuba that overthrew the U.S.-backed dictator Fulgencio Batista",
+    "Quiz Question": "Who led the Cuban Revolution and became the country's leader?",
+    "Answer": "Fidel Castro"
+  },
+  {
+    "Event": "Space Race",
+    "Year": "1955-1975",
+    "Details": "Competition between the United States and the Soviet Union for supremacy in space exploration",
+    "Quiz Question": "Which country was the first to send a human into space?",
+    "Answer": "The Soviet Union"
+  },
+  {
+    "Event": "Suez Crisis",
+    "Year": "1956",
+    "Details": "International crisis over the nationalization of the Suez Canal by Egypt",
+    "Quiz Question": "Which countries were the main aggressors in the Suez Crisis?",
+    "Answer": "The United Kingdom, France, and Israel"
+  },
+  {
+    "Event": "Civil Rights Movement in the United States",
+    "Year": "1954-1968",
+    "Details": "Social movement in the United States aimed at ending racial segregation and discrimination against African Americans",
+    "Quiz Question": "Who delivered the famous 'I Have a Dream' speech during the March on Washington?",
+    "Answer": "Martin Luther King Jr."
+  },
+  {
+    "Event": "Cultural Revolution in China",
+    "Year": "1966-1976",
+    "Details": "Sociopolitical movement in China launched by Mao Zedong to preserve Chinese Communism",
+    "Quiz Question": "What was the name of the political and ideological campaign launched by Mao Zedong in 1966?",
+    "Answer": "The Great Proletarian Cultural Revolution"
+  },
+  {
+    "Event": "Six-Day War",
+    "Year": "1967",
+    "Details": "Brief war between Israel and the neighboring states of Egypt, Syria, and Jordan",
+    "Quiz Question": "How long did the Six-Day War last?",
+    "Answer": "Six days"
+  },
+  {
+    "Event": "Prague Spring",
+    "Year": "1968",
+    "Details": "Period of political liberalization in Czechoslovakia that was forcefully ended by Soviet invasion",
+    "Quiz Question": "Which country led the Warsaw Pact invasion to end the Prague Spring?",
+    "Answer": "The Soviet Union"
+  },
+  {
+    "Event": "Apollo 11 Moon Landing",
+    "Year": "1969",
+    "Details": "First manned mission to land on the Moon",
+    "Quiz Question": "Who was the first person to walk on the Moon?",
+    "Answer": "Neil Armstrong"
+  },
+  {
+    "Event": "Woodstock Music Festival",
+    "Year": "1969",
+    "Details": "Iconic music festival held in upstate New York, symbolizing the counterculture movement of the 1960s",
+    "Quiz Question": "In which year did the original Woodstock festival take place?",
+    "Answer": "1969"
+  },
+  {
+    "Event": "Ping Pong Diplomacy",
+    "Year": "1971",
+    "Details": "Exchange of table tennis players between the United States and People's Republic of China",
+    "Quiz Question": "What sport was used as a diplomatic tool to improve US-China relations in 1971?",
+    "Answer": "Table tennis (ping pong)"
+  },
+  {
+    "Event": "Yom Kippur War",
+    "Year": "1973",
+    "Details": "War fought by a coalition of Arab states led by Egypt and Syria against Israel",
+    "Quiz Question": "On which Jewish holiday did the Yom Kippur War begin?",
+    "Answer": "Yom Kippur"
+  },
+  {
+    "Event": "Fall of Saigon",
+    "Year": "1975",
+    "Details": "Capture of Saigon by the People's Army of Vietnam and the Viet Cong, marking the end of the Vietnam War",
+    "Quiz Question": "What was the capital of South Vietnam that fell in 1975, ending the Vietnam War?",
+    "Answer": "Saigon"
+  },
+  {
+    "Event": "Death of Mao Zedong",
+    "Year": "1976",
+    "Details": "Death of the founding father of the People's Republic of China",
+    "Quiz Question": "In which year did Mao Zedong, the founder of the People's Republic of China, die?",
+    "Answer": "1976"
+  },
+  {
+    "Event": "Camp David Accords",
+    "Year": "1978",
+    "Details": "Peace agreement between Israel and Egypt brokered by U.S. President Jimmy Carter",
+    "Quiz Question": "Which U.S. President brokered the Camp David Accords?",
+    "Answer": "Jimmy Carter"
+  },
+  {
+    "Event": "Iranian Revolution",
+    "Year": "1979",
+    "Details": "Overthrow of the Pahlavi dynasty under Shah Mohammad Reza Pahlavi and its replacement with an Islamic republic",
+    "Quiz Question": "Who became the Supreme Leader of Iran after the 1979 revolution?",
+    "Answer": "Ayatollah Ruhollah Khomeini"
+  },
+  {
+    "Event": "Soviet-Afghan War",
+    "Year": "1979-1989",
+    "Details": "Nine-year conflict involving the Soviet Union supporting the Afghan communist government against rebel groups",
+    "Quiz Question": "How long did the Soviet-Afghan War last?",
+    "Answer": "Approximately 10 years"
+  },
+  {
+    "Event": "Assassination of John Lennon",
+    "Year": "1980",
+    "Details": "Murder of the former Beatles member outside his New York City apartment",
+    "Quiz Question": "In which city was John Lennon assassinated?",
+    "Answer": "New York City"
+  },
+  {
+    "Event": "Solidarity Movement in Poland",
+    "Year": "1980-1989",
+    "Details": "Polish trade union movement that played a central role in the fall of communism in Eastern Europe",
+    "Quiz Question": "Who was the leader of the Solidarity movement in Poland?",
+    "Answer": "Lech Wałęsa"
+  },
+  {
+    "Event": "Assassination of Anwar Sadat",
+    "Year": "1981",
+    "Details": "Egyptian President Anwar Sadat was assassinated during an annual victory parade in Cairo",
+    "Quiz Question": "Which Egyptian President was assassinated in 1981?",
+    "Answer": "Anwar Sadat"
+  },
+  {
+    "Event": "Falklands War",
+    "Year": "1982",
+    "Details": "Ten-week undeclared war between Argentina and the United Kingdom over two British dependent territories in the South Atlantic",
+    "Quiz Question": "Which two countries fought in the Falklands War?",
+    "Answer": "Argentina and the United Kingdom"
+  },
+  {
+    "Event": "Invasion of Grenada",
+    "Year": "1983",
+    "Details": "U.S. military intervention in the Caribbean island nation of Grenada",
+    "Quiz Question": "Which U.S. President ordered the invasion of Grenada in 1983?",
+    "Answer": "Ronald Reagan"
+  },
+  {
+    "Event": "Assassination of Indira Gandhi",
+    "Year": "1984",
+    "Details": "Indian Prime Minister Indira Gandhi was assassinated by her Sikh bodyguards",
+    "Quiz Question": "Who was the Indian Prime Minister assassinated in 1984?",
+    "Answer": "Indira Gandhi"
+  },
+  {
+    "Event": "Live Aid Concert",
+    "Year": "1985",
+    "Details": "Dual-venue benefit concert held to raise funds for relief of the Ethiopian famine",
+    "Quiz Question": "What was the main purpose of the Live Aid concert in 1985?",
+    "Answer": "To raise funds for Ethiopian famine relief"
+  },
+  {
+    "Event": "Challenger Disaster",
+    "Year": "1986",
+    "Details": "Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members",
+    "Quiz Question": "How many seconds into its flight did the Space Shuttle Challenger disaster occur?",
+    "Answer": "73 seconds"
+  },
+  {
+    "Event": "Iran-Contra Affair",
+    "Year": "1985-1987",
+    "Details": "Political scandal in the United States that involved the secret sale of weapons to Iran to fund Contra rebels in Nicaragua",
+    "Quiz Question": "Which U.S. President was implicated in the Iran-Contra Affair?",
+    "Answer": "Ronald Reagan"
+  },
+  {
+    "Event": "Black Monday",
+    "Year": "1987",
+    "Details": "Global stock market crash that started in Hong Kong and spread to the rest of the world",
+    "Quiz Question": "On which day of the week did the 1987 stock market crash occur, giving it its nickname?",
+    "Answer": "Monday"
+  },
+  {
+    "Event": "Intifada",
+    "Year": "1987-1993",
+    "Details": "Palestinian uprising against Israeli occupation of the West Bank and Gaza Strip",
+    "Quiz Question": "What is the Arabic term for the Palestinian uprising against Israeli occupation that began in 1987?",
+    "Answer": "Intifada"
+  },
+  {
+    "Event": "Fall of the Berlin Wall",
+    "Year": "1989",
+    "Details": "Fall of the Berlin Wall, symbolizing the end of the Cold War and the reunification of Germany",
+    "Quiz Question": "In which year did the Berlin Wall fall?",
+    "Answer": "1989"
+  },
+  {
+    "Event": "Tiananmen Square Protests",
+    "Year": "1989",
+    "Details": "Student-led demonstrations in Beijing that were forcibly suppressed by the Chinese government",
+    "Quiz Question": "In which square in Beijing did the 1989 student protests mainly take place?",
+    "Answer": "Tiananmen Square"
+  },
+  {
+    "Event": "Nelson Mandela's Release",
+    "Year": "1990",
+    "Details": "Release of Nelson Mandela from prison after 27 years of incarceration",
+    "Quiz Question": "How many years was Nelson Mandela imprisoned before his release in 1990?",
+    "Answer": "27 years"
+  },
+  {
+    "Event": "German Reunification",
+    "Year": "1990",
+    "Details": "Process of reuniting East and West Germany into a single nation",
+    "Quiz Question": "In which year were East and West Germany officially reunified?",
+    "Answer": "1990"
+  },
+  {
+    "Event": "Gulf War",
+    "Year": "1990-1991",
+    "Details": "War waged by coalition forces from 35 nations led by the United States against Iraq in response to Iraq's invasion of Kuwait",
+    "Quiz Question": "Which country did Iraq invade, leading to the Gulf War?",
+    "Answer": "Kuwait"
+  },
+  {
+    "Event": "Dissolution of the Soviet Union",
+    "Year": "1991",
+    "Details": "Dissolution of the Soviet Union into 15 independent republics",
+    "Quiz Question": "How many independent republics emerged from the dissolution of the Soviet Union?",
+    "Answer": "15"
+  },
+  {
+    "Event": "Apartheid Ends in South Africa",
+    "Year": "1994",
+    "Details": "End of the apartheid system in South Africa and the country's first multi-racial democratic elections",
+    "Quiz Question": "Who became the first black President of South Africa after the end of apartheid?",
+    "Answer": "Nelson Mandela"
+  },
+  {
+    "Event": "Rwandan Genocide",
+    "Year": "1994",
+    "Details": "Mass slaughter of Tutsi in Rwanda by members of the Hutu majority government",
+    "Quiz Question": "Approximately how many people were killed during the Rwandan Genocide?",
+    "Answer": "500,000 to 1,000,000"
+  },
+  {
+    "Event": "Oklahoma City Bombing",
+    "Year": "1995",
+    "Details": "Domestic terrorist truck bombing of a federal building in Oklahoma City by Timothy McVeigh",
+    "Quiz Question": "Who was responsible for carrying out the Oklahoma City bombing in 1995?",
+    "Answer": "Timothy McVeigh"
+  },
+  {
+    "Event": "Good Friday Agreement",
+    "Year": "1998",
+    "Details": "Major political agreement in the Northern Ireland peace process",
+    "Quiz Question": "What was the name of the peace agreement signed in Northern Ireland in 1998?",
+    "Answer": "The Good Friday Agreement"
+  },
+  {
+    "Event": "Columbine High School Shooting",
+    "Year": "1999",
+    "Details": "School shooting at Columbine High School in Colorado, United States",
+    "Quiz Question": "In which U.S. state did the Columbine High School shooting take place?",
+    "Answer": "Colorado"
+  },
+  {
+    "Event": "Y2K",
+    "Year": "2000",
+    "Details": "Widespread concern about potential computer problems related to the transition from the year 1999 to 2000",
+    "Quiz Question": "What does 'Y2K' stand for?",
+    "Answer": "Year 2000"
+  }
+]
