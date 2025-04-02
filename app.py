@@ -1,11 +1,12 @@
 from langchain_groq import ChatGroq
 from langchain_core.prompts import PromptTemplate
 import streamlit as st
+import os
 num=1
 # Initialize the ChatGroq model
 llm = ChatGroq(
-    model="llama-3.2-90b-text-preview",
-    groq_api_key="api key",  # Ensure the API key is valid
+    model="llama-3.3-70b-versatile",
+    groq_api_key=os.getenv('GROQ_API_KEY'),  # Ensure the API key is valid
     temperature=0
 )
 
